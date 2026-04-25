@@ -1,0 +1,5 @@
+{
+  "name": "Media Computing Lab",
+  "description": "An interactive learning tool for CS2108 concepts including sinusoids, sampling, and convolution, featuring an AI Tutor.",
+  "requestFramePermissions": []
+}
