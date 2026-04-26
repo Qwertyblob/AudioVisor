@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Pulse & Pixel** is an educational platform designed to help students visualize and interact with fundamental concepts in digital signal processing and image computing. Developed using modern web technologies, the application provides a hands-on environment for exploring sinusoids, sampling theory, and spatial filtering.
+AudioVisor is an educational platform designed to help students visualize and interact with fundamental concepts in digital signal processing and image computing. Developed using modern web technologies, the application provides a hands-on environment for exploring sinusoids, sampling theory, and spatial filtering.
 
 ## Core Features
 
