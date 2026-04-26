@@ -1,6 +1,4 @@
-# Pulse & Pixel: The Media Computing Lab
-
-Welcome to **Pulse & Pixel**, a comprehensive interactive playground designed for CS2108 (Media Computing) concepts. This application bridges the gap between abstract mathematical theory and practical intuition through high-performance visualizations and AI-assisted learning.
+# AudioVisor
 
 ## Overview
 
@@ -52,8 +50,8 @@ A 24/7 teaching assistant integrated directly into the lab.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pulse-pixel.git
-   cd pulse-pixel
+   git clone https://github.com/your-username/AudioVisor.git
+   cd AudioVisor
    ```
 
 2. Install dependencies:
